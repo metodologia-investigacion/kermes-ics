@@ -17,8 +17,10 @@ La participación es anónima: no se solicitan nombre, apellido ni comisión. Al
 1. Entrar a la sala y comenzar. El registro anónimo se crea automáticamente; no hay que completar datos personales ni configurar equipos o esperar un turno docente.
 2. Jugar una ronda del rosco. La modalidad inicial no tiene reloj. Se puede elegir una letra pendiente, responder o usar Pasapalabra para volver después.
 3. Jugar una partida de Preguntados, de 12 preguntas. En los casos y cruces entre perspectivas se pide una justificación breve de la opción elegida antes de mostrar la devolución. La explicación y la referencia al texto permiten revisar el razonamiento.
-4. Escribir en el muro una reflexión de cierre de 5 a 8 líneas, recuperando un concepto o autor y un ejemplo.
-5. Revisar que los resultados estén guardados. Si aparece un aviso de registros pendientes, usar Reintentar y mantener la página abierta hasta que termine la sincronización.
+4. Recorrer una estación de **¿Quién lo diría?**: elegir autores o posturas, consultar la explicación después de enviar y volver a las referencias. El puesto incluye 11 fragmentos de unidad 1, 12 de unidad 2, 9 de unidad 3 y 8 del duelo final.
+5. Elegir una o más consignas de **A desarrollar**. Enviar primero una respuesta propia para habilitar la guía, revisar conceptos, referencias y errores frecuentes, y enviar una nueva versión si hace falta. Hay cinco consignas disponibles; no se presupone que deban completarse todas de una sola vez.
+6. Escribir en el muro una reflexión de cierre de 5 a 8 líneas, recuperando un concepto o autor y un ejemplo.
+7. Revisar que los resultados estén guardados. Si aparece un aviso de registros pendientes, usar Reintentar y mantener la página abierta hasta que termine la sincronización.
 
 No es necesario completar todo de una sola vez. Para continuar otro día, volver al mismo enlace desde el mismo dispositivo y navegador, sin borrar sus datos. Los juegos conservan el avance en ese navegador y los resultados ya enviados quedan en el registro docente de la sala. Cambiar de navegador o dispositivo crea otro registro anónimo; el historial anterior se conserva, pero no se vincula automáticamente con el nuevo.
 
@@ -53,3 +55,15 @@ El docente puede quitar aportes del muro y cerrar o reabrir la recepción. Las r
 ## Autoría y licencia
 
 Serafin Gonzalez - Adscripto · 2026. Los contenidos didácticos propios se ofrecen bajo Creative Commons CC BY-NC-SA 4.0: compartir y adaptar con crédito, sin fines comerciales y bajo la misma licencia. Las imágenes y los textos de terceros conservan sus propios derechos. Ver `LICENCIA.md` y https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es .
+
+## Recurso de Emilia Correa integrado en la kermés
+
+**¿Quién lo diría?**, sus 40 desafíos de autores y posturas, las explicaciones de las confusiones y las cinco consignas con sus guías fueron elaborados por **Emilia Correa - Adscripta**. Fuente original: https://claude.ai/artifact/18iLJ8dpzBBk3nSF2QAw1e . La integración conserva esas referencias y adapta el recorrido al repaso previo al final.
+
+El puesto es parte de la página: no requiere abrir Claude ni una cuenta allí para jugar. Las opciones se mezclan en cada nueva vuelta. El balance de confusiones contrasta la postura elegida con la prevista y permite volver a leerlas juntas.
+
+En **A desarrollar**, el borrador permanece en el mismo navegador. El primer envío habilita los criterios, los fragmentos y los errores frecuentes. Las casillas son una autoevaluación. Una nueva versión conserva la anterior; la autoevaluación seleccionada acompaña ese nuevo envío. Las respuestas pueden tener hasta 5000 caracteres.
+
+En el panel docente, el filtro **Juego** incluye **¿Quién lo diría?** y **A desarrollar**. El cuadro de recorridos muestra el avance en los tres juegos y las cinco consignas. La sección de confusiones permite identificar contrastes a retomar con el grupo. Las respuestas extensas se abren desde su detalle y pueden marcarse como leídas. No se corrigen automáticamente ni se incorporan al porcentaje de aciertos. El CSV conserva todas las versiones, las autoevaluaciones y las marcas de lectura.
+
+Rosco, Preguntados, muro e integración de la actividad: **Serafin Gonzalez - Adscripto**. ¿Quién lo diría? y guías de desarrollo: **Emilia Correa - Adscripta**. La licencia de los contenidos propios de Serafin Gonzalez no se extiende automáticamente al aporte de Emilia Correa ni a los fragmentos de los autores citados; cada material conserva su autoría y derechos.

@@ -15,6 +15,10 @@ Se pueden compartir y adaptar con atribución adecuada, para usos no comerciales
 
 Atribución sugerida: «La kermés de las Ciencias Sociales», Serafin Gonzalez - Adscripto, 2026, CC BY-NC-SA 4.0. https://metodologia-investigacion.github.io/kermes-ics/
 
+## Aporte de Emilia Correa
+
+El juego **¿Quién lo diría?**, sus explicaciones y las cinco consignas con guías de desarrollo fueron elaborados por **Emilia Correa - Adscripta**, e integrados con reconocimiento de su autoría. Recurso original: https://claude.ai/artifact/18iLJ8dpzBBk3nSF2QAw1e . La licencia indicada para los contenidos propios de Serafin Gonzalez no se extiende automáticamente a este aporte ni a los fragmentos de terceros que contiene.
+
 ## Materiales con derechos propios
 
 La licencia anterior no se extiende a los textos y las referencias de los autores estudiados, las fotografías de terceros, los logotipos, los iconos, las tipografías, las bibliotecas de software, el código ni los aportes o respuestas de estudiantes. No se otorga una licencia de contenido sobre los registros privados de la actividad.

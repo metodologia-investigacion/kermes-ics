@@ -1,8 +1,10 @@
 # La kermés de las Ciencias Sociales
 
-Rosco, Preguntados y muro colectivo para el repaso previo al final de Introducción a las Ciencias Sociales.
+Rosco, Preguntados, ¿Quién lo diría?, desarrollos con guías y muro colectivo para el repaso previo al final de Introducción a las Ciencias Sociales.
 
 **Serafin Gonzalez - Adscripto** · 2026
+
+**¿Quién lo diría? y las cinco guías de desarrollo: Emilia Correa - Adscripta.** [Recurso original](https://claude.ai/artifact/18iLJ8dpzBBk3nSF2QAw1e).
 
 Contenido didáctico propio bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Se permite compartir y adaptar con crédito, sin fines comerciales y bajo la misma licencia. El alcance y las excepciones se detallan en [LICENCIA.md](LICENCIA.md); el texto oficial está en [LICENSE](LICENSE).
 
@@ -33,4 +35,4 @@ La versión estática se comunica con el servicio existente mediante HTTPS y con
 
 ## Contenido y créditos
 
-66 preguntas con explicaciones y referencias; 24 letras del rosco; cruces entre unidades y casos hipotéticos de análisis. Los textos de la cátedra no se redistribuyen. Las imágenes mantienen los créditos y las licencias indicadas en la trastienda de la página y en `data/credits.json` dentro de las fuentes.
+66 preguntas con explicaciones y referencias; 24 letras del rosco; 40 desafíos de autores y posturas; 5 consignas de desarrollo con sus guías; cruces entre unidades y casos hipotéticos de análisis. Las respuestas de desarrollo y sus versiones se conservan para lectura docente, sin nota automática. Los textos de la cátedra no se redistribuyen. Las imágenes mantienen los créditos y las licencias indicadas en la trastienda de la página y en `data/credits.json` dentro de las fuentes.
