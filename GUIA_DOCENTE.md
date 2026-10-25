@@ -54,7 +54,7 @@ El docente puede quitar aportes del muro y cerrar o reabrir la recepción. Las r
 
 ## Autoría y licencia
 
-Serafin Gonzalez - Adscripto · 2026. Los contenidos didácticos propios se ofrecen bajo Creative Commons CC BY-NC-SA 4.0: compartir y adaptar con crédito, sin fines comerciales y bajo la misma licencia. Las imágenes y los textos de terceros conservan sus propios derechos. Ver `LICENCIA.md` y https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es .
+© 2026 Serafin Gonzalez y Emilia Correa — Adscripto y Adscripta. Los contenidos didácticos propios de ambos autores se ofrecen conjuntamente bajo Creative Commons CC BY-NC-SA 4.0: compartir y adaptar con crédito a ambos, sin fines comerciales y bajo la misma licencia. Las imágenes y los textos de terceros conservan sus propios derechos. Ver `LICENCIA.md` y https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es .
 
 ## Recurso de Emilia Correa integrado en la kermés
 
@@ -66,4 +66,4 @@ En **A desarrollar**, el borrador permanece en el mismo navegador. El primer env
 
 En el panel docente, el filtro **Juego** incluye **¿Quién lo diría?** y **A desarrollar**. El cuadro de recorridos muestra el avance en los tres juegos y las cinco consignas. La sección de confusiones permite identificar contrastes a retomar con el grupo. Las respuestas extensas se abren desde su detalle y pueden marcarse como leídas. No se corrigen automáticamente ni se incorporan al porcentaje de aciertos. El CSV conserva todas las versiones, las autoevaluaciones y las marcas de lectura.
 
-Rosco, Preguntados, muro e integración de la actividad: **Serafin Gonzalez - Adscripto**. ¿Quién lo diría? y guías de desarrollo: **Emilia Correa - Adscripta**. La licencia de los contenidos propios de Serafin Gonzalez no se extiende automáticamente al aporte de Emilia Correa ni a los fragmentos de los autores citados; cada material conserva su autoría y derechos.
+La obra integrada y sus contenidos didácticos propios se presentan bajo la licencia conjunta **CC BY-NC-SA 4.0 de Serafin Gonzalez y Emilia Correa — Adscripto y Adscripta**. Se conserva la procedencia de cada aporte. Los fragmentos de los autores citados y los demás materiales de terceros mantienen sus propios derechos.

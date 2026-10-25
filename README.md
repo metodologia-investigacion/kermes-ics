@@ -2,11 +2,11 @@
 
 Rosco, Preguntados, ¿Quién lo diría?, desarrollos con guías y muro colectivo para el repaso previo al final de Introducción a las Ciencias Sociales.
 
-**Serafin Gonzalez - Adscripto** · 2026
+© 2026 **Serafin Gonzalez y Emilia Correa — Adscripto y Adscripta**
 
 **¿Quién lo diría? y las cinco guías de desarrollo: Emilia Correa - Adscripta.** [Recurso original](https://claude.ai/artifact/18iLJ8dpzBBk3nSF2QAw1e).
 
-Contenido didáctico propio bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Se permite compartir y adaptar con crédito, sin fines comerciales y bajo la misma licencia. El alcance y las excepciones se detallan en [LICENCIA.md](LICENCIA.md); el texto oficial está en [LICENSE](LICENSE).
+Contenido didáctico propio de ambos autores bajo la licencia conjunta [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Se permite compartir y adaptar con crédito a ambos, sin fines comerciales y bajo la misma licencia. El alcance y las excepciones se detallan en [LICENCIA.md](LICENCIA.md); el texto oficial está en [LICENSE](LICENSE).
 
 **[Entrar a la actividad](https://metodologia-investigacion.github.io/kermes-ics/?sala=C4EC7B)**
 
